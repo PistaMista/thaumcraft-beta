@@ -4,38 +4,38 @@
 #
 # Curios
 #
-item.thaumonomicon.normal.name=Thaumonomicon
-item.thaumonomicon.cheat.name=Cheater's Thaumonomicon
-item.curio.arcane.name=Arcane Curiosity
-item.curio.preserved.name=Preserved Curiosity
-item.curio.eldritch.name=Eldritch Curiosity
-item.curio.ancient.name=Ancient Curiosity
-item.curio.twisted.name=Twisted Curiosity
-item.curio.knowledge.name=Illuminating Curiosity
-item.curio.rites.name=Crimson Rites
-item.curio.text=What knowledge does this hold?
-item.loot_bag.common.name=Common Treasure
-item.loot_bag.uncommon.name=Uncommon Treasure
-item.loot_bag.rare.name=Rare Treasure
-tc.lootbag=Click to open or keep to trade
-item.primordial_pearl.mote.name=Primordial Mote
-item.primordial_pearl.nodule.name=Primordial Nodule
-item.primordial_pearl.pearl.name=Primordial Pearl
-item.pech_wand.name=Pech Wand
-item.celestial_notes.name=Celestial Notes
-item.celestial_notes.sun.text=Solar
-item.celestial_notes.stars_1.text=Stellar, Northern Quadrant
-item.celestial_notes.stars_2.text=Stellar, Southern Quadrant
-item.celestial_notes.stars_3.text=Stellar, Western Quadrant
-item.celestial_notes.stars_4.text=Stellar, Eastern Quadrant
-item.celestial_notes.moon_1.text=Lunar, Full
-item.celestial_notes.moon_2.text=Lunar, Waning Gibbous
-item.celestial_notes.moon_3.text=Lunar, Third Quarter
-item.celestial_notes.moon_4.text=Lunar, Waning Crescent
-item.celestial_notes.moon_5.text=Lunar, New
-item.celestial_notes.moon_6.text=Lunar, Waxing Crescent
-item.celestial_notes.moon_7.text=Lunar, First Quarter
-item.celestial_notes.moon_8.text=Lunar, Waxing Gibbous
+item.thaumonomicon.normal.name=Taumonomikon
+item.thaumonomicon.cheat.name=Podvodníkův Taumonomikon
+item.curio.arcane.name=Tajuplná Kuriozita
+item.curio.preserved.name=Zachovalá Kuriozita
+item.curio.eldritch.name=Podivná Kuriozita
+item.curio.ancient.name=Pravěká Kuriozita
+item.curio.twisted.name=Překroucená Kuriozita
+item.curio.knowledge.name=Osvěcující Kuriozita
+item.curio.rites.name=Karmínské Rituály
+item.curio.text=Co skrývá za tajemství?
+item.loot_bag.common.name=Obyčejný Poklad
+item.loot_bag.uncommon.name=Neobyčejný Poklad
+item.loot_bag.rare.name=Vzácný Poklad
+tc.lootbag=Můžu jej otevřít nebo s ním obchodovat
+item.primordial_pearl.mote.name=Prvotní Prach
+item.primordial_pearl.nodule.name=Prvotní Uzlík
+item.primordial_pearl.pearl.name=Prvotní Perla
+item.pech_wand.name=Pytliččí Hůlka
+item.celestial_notes.name=Poznatky o nebi
+item.celestial_notes.sun.text=Slunce
+item.celestial_notes.stars_1.text=Hvězdná obloha, Severní Kvadrant
+item.celestial_notes.stars_2.text=Hvězdná obloha, Jižní Kvadrant
+item.celestial_notes.stars_3.text=Hvězdná obloha, Západní Kvadrant
+item.celestial_notes.stars_4.text=Hvězdná obloha, Východní Kvadrant
+item.celestial_notes.moon_1.text=Lunární, úplněk
+item.celestial_notes.moon_2.text=Lunární, couvající měsíc
+item.celestial_notes.moon_3.text=Lunární, poslední čtvrt
+item.celestial_notes.moon_4.text=Lunární, couvající srpek
+item.celestial_notes.moon_5.text=Lunární, nov
+item.celestial_notes.moon_6.text=Lunární, dorůstající srpek
+item.celestial_notes.moon_7.text=Lunární, první čtvrt
+item.celestial_notes.moon_8.text=Lunární, dorůstající měsíc
 #
 # Resources
 #
